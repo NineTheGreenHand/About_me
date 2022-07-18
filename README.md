@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sheng Yu
 - 👀 I’m interested in music, movies, and gaming.
 - 🌱 I’m currently a CS graduate student at USC.
-- 💞️ I’m looking for Summer 2022 Intership. 
+- 💞️ I’m looking for 2023 New Grad SDE Job or Intership. 
 - 📫 Email: centaurusyu2022@gmail.com
 
 <!---
